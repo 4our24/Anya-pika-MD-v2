@@ -1,11 +1,11 @@
 {
-  "name": "Anya-MD",
+  "name": "Jiraiya-MD",
   "version": "2.0.5",
   "description": "Automated whatsapp md bot created using nodejs",
-  "main": "Anyaindex.js",
+  "main": "Jiraiyaindex.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node Anyaindex.js"
+    "start": "node Jiraiyaindex.js"
   },
   "keywords": [
     "termux",
@@ -17,13 +17,13 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Pika",
+  "author": "Four",
   "license": "GPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
-    "@adiwajshing/baileys2": "github:QueenAnya/topa",
+    "@adiwajshing/baileys2": "github:Four/topa",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@adiwajshing/keyed-db2": "github:QueenAnya/topb",
+    "@adiwajshing/keyed-db2": "github:Four/topb",
     "@bochilteam/scraper": "^2.0.0",
     "@develoka/angka-terbilang-js": "^1.4.2",
     "@shineiichijo/marika": "^2.0.2",
