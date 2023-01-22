@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/PikaBotz/Anya-pika-MD-v2
 
-WORKDIR /root/Anya-pika-MD-v2
+WORKDIR /root/Jiraya-Four-MD-v2
 
-COPY ./root/Anya-pika-MD-v2
+COPY ./root/Jiraya-Four-MD-v2
 
 RUN yarn install
 
