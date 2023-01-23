@@ -1,6 +1,6 @@
 <div align="center">
    
-## 𝕵𝖎𝖗𝖆𝖞𝖆 𝖇𝐲 𝕱𝖔𝖚𝖗
+## 𝖏𝖎𝖗𝖆𝖞𝖆 𝖇𝐲 𝖋𝖔𝖚𝖗
 <p align="center">
 <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
 
