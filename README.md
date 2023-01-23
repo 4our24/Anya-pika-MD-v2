@@ -1,6 +1,6 @@
 <div align="center">
    
-## 𝐀𝖓𝐲𝖆 𝖇𝐲 𝕻𝖎𝖐𝖆𝖈𝖍𝖚
+## 𝕵𝖎𝖗𝖆𝖞𝖆 𝖇𝐲 𝕱𝖔𝖚𝖗
 <p align="center">
 <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
 
