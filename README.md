@@ -103,10 +103,10 @@ npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
 * [Jetus](https://github.com/jetus-hack)
 
 ##
-### 𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥
+### 𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 🥵🔥
 <p align="center">
 
-<img src="https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/Developer_pics/Developerpic.jpg">   
+<img src="bot owner.png">   
 
 ##
 <br>
