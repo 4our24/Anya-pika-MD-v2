@@ -106,7 +106,7 @@ npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
 ### 𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 🥵🔥
 <p align="center">
 
-<img src="botowner.jpg">   
+<img src="IMG.jpg">   
 
 ##
 <br>
