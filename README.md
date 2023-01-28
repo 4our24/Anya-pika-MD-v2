@@ -2,7 +2,7 @@
    
 ## 𝐀𝖓𝐲𝖆 𝖇𝐲 𝕻𝖎𝖐𝖆𝖈𝖍𝖚
 <p align="center">
-<img src="./Four.jpg" alt="Pika" height= "auto" width="auto"/>
+<img src="Four.jpg" alt="Four" height= "auto" width="auto"/>
 
 
 </p>
